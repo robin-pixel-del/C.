@@ -3,16 +3,16 @@
     {
       "category": "Marisol y Dilbert Aguilar",
       "tracks": [
-        { "id": "uSjC9mB4Wi8", "title": "Quien Es Ella", "duration": 225 }
+        { "id": "uSjC9mB4Wi8", "title": "Quien Es Ella", "duration": 225 },
         { "id": "1EzprcGvgCw", "title": "No Me Resigno a Olvidarte", "duration": 170 },
         { "id": "HjPaZdFuVT0", "title": "El Mujeriego (ft. Dilbert Aguilar)", "duration": 190 },
-        { "id": "9howIL68beA", "title": "Adiós Adiós", "duration": 190 }
+        { "id": "9howIL68beA", "title": "Adiós Adiós", "duration": 190 },
         { "id": "lTrhcI0DS9U", "title": "Noches Vacías", "duration": 202 },
         { "id": "mm_SwD5PYvY", "title": "Fuiste", "duration": 181 },
         { "id": "NWsyPB4MJ3U", "title": "Un Amor Verdadero", "duration": 282 },
         { "id": "2-fOa0ZI6K0", "title": "Amame Suavecito", "duration": 212 },
         { "id": "y4Rtfp0Nx4k", "title": "No es mi Despedida", "duration": 190 },
-        { "id": "Hc5Pl1rAnw4", "title": "Pasito a Pasito", "duration": 232 }
+        { "id": "Hc5Pl1rAnw4", "title": "Pasito a Pasito", "duration": 232 },
         { "id": "iv5841nThig", "title": "Tu amor fue una mentira", "duration": 221 },
         { "id": "KMCZ03itZls", "title": "Así es el amor", "duration": 185 },
         { "id": "IxvEuwwRpjE", "title": "Tu amor fue una mentira (HD)", "duration": 208 },
@@ -41,7 +41,7 @@
         { "id": "ANg3sogy2YI", "title": "Debo Detenerlo", "duration": 211 },
         { "id": "xQ_FoaouC6E", "title": "Llora Mi Corazón", "duration": 225 },
         { "id": "04sobBIKsTw", "title": "Compárame", "duration": 224 },
-        { "id": "sb63H5vOT2M", "title": "El Teléfono", "duration": 195 },
+        { "id": "sb63H5vOT2M", "title": "El Teléfono", "duration": 195 }
       ]
     }
   ]
