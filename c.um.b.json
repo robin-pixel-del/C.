@@ -52,7 +52,7 @@
     {
       "category": "Agua Bella",
       "tracks": [
-        { "id": "DXyfnOzlQgk", "title": "sentimiento mix 1   agua bella 2000", "duration": 398 },
+        { "id": "DXyfnOzlQgk", "title": "sentimiento mix 1 agua bella 2000", "duration": 398 },
         { "id": "Xyo-GJ81Fhg", "title": "AGUA BELLA AGUA DE VENENO VIDEO OFICIAL", "duration": 301 },
         { "id": "hyS1GfFdJME", "title": "TOMANDO UNA COPA AGUA BELLA", "duration": 218 },
         { "id": "Zm8bPFwEeCc", "title": "Agua Bella - Te Dejo Libre (video clip)", "duration": 203 },
@@ -61,7 +61,7 @@
         { "id": "vOgnzlar8DU", "title": "Agua Bella - Pasito Tum Tum", "duration": 220 },
         { "id": "BmNj8yd44D4", "title": "Agua Bella - Imposible Olvidarte (Video Oficial)", "duration": 248 },
         { "id": "PVYEhppl3kk", "title": "AGUA BELLA TU RECUERDO", "duration": 199 },
-        { "id": "36eaOrbvBMI", "title": "BELLA BELLA  - SI TE VAS", "duration": 149 },
+        { "id": "36eaOrbvBMI", "title": "BELLA BELLA - SI TE VAS", "duration": 149 },
         { "id": "-IIHy-T6dJU", "title": "AGUA BELLA - LLEVATE MI CORAZON", "duration": 213 },
         { "id": "0YaZQLxJZdM", "title": "AGUA BELLA - FIESTA MIX", "duration": 364 },
         { "id": "1Y76BCk5AUE", "title": "AGUA BELLA - NADIE MUERE DE AMOR", "duration": 215 },
@@ -111,6 +111,33 @@
         { "id": "fWPgKK3EODc", "title": "Amor Se Escribe Con Llanto", "duration": 175 },
         { "id": "KvyUZzpZU3I", "title": "Amor Te Necesito", "duration": 215 },
         { "id": "ve2I4xN_YPg", "title": "Te fuiste", "duration": 226 }
+      ]
+    },
+    {
+      "category": "Papillón",
+      "tracks": [
+        { "id": "hyeX7EFN9GY", "title": "Que Pasó - Papillón (Videoclip Oficial)", "duration": 279 },
+        { "id": "rPOF4-h2tp8", "title": "Papilon - Amor Amor", "duration": 247 },
+        { "id": "aM7wYfKVx0U", "title": "Orquesta Papillon - Te Extraño Tanto 2013 HD Primicia Video Clip", "duration": 225 },
+        { "id": "TFmtMA5zpm8", "title": "Papillón - Perdón (Videoclip Oficial)", "duration": 224 },
+        { "id": "gsTPjmj2fSU", "title": "Papillón - Me Enamoré (Videoclip Oficial)", "duration": 231 },
+        { "id": "ZEUF6TumF1Q", "title": "Se acabó el Amor - Papillon de Tarapoto", "duration": 249 },
+        { "id": "t1uUVmR-qwE", "title": "Orquesta Papillon - Triste Payaso (Video Clip)", "duration": 238 },
+        { "id": "jSk_GxFpeDA", "title": "YO VIVIRE - ORQ. PAPILON - DJ JHOSMI", "duration": 259 },
+        { "id": "tGBuqeKNZCc", "title": "Tu Engaño - Papillón (Videoclip Oficial)", "duration": 205 },
+        { "id": "fTDlXB3Torc", "title": "Papillón - Que Sufra, Que Chupe Y Que Llore (Videoclip Oficial)", "duration": 276 },
+        { "id": "5PU63ACc8zk", "title": "Cuerpo de Sirena - Papillón (Videoclip Oficial)", "duration": 243 },
+        { "id": "K2BMEYXpAhE", "title": "HASTA CUANTO TE QUIERO \"PAPILLON\" LA VOZ DE MOISES VEGA", "duration": 266 },
+        { "id": "tpSZYtqOycA", "title": "AMOR DE COLEGIALA Papillon", "duration": 268 },
+        { "id": "q9h74hKelCQ", "title": "Rogare - Papilon de tarapoto", "duration": 291 },
+        { "id": "PLfSy33Z-yY", "title": "Quién No Lloró Por Amor - Papillón (Videoclip Oficial)", "duration": 186 },
+        { "id": "NTXXssCcDTA", "title": "VIDEOCLIP PAPILLÓN - TE BURLASTE DE MI", "duration": 218 },
+        { "id": "k37DM5xuJWU", "title": "Sueño o Pesadilla", "duration": 273 },
+        { "id": "TgAQRvtwNA4", "title": "ENAMORADO - papillon", "duration": 260 },
+        { "id": "LWXO_3B49AQ", "title": "Papillon - Vuelve pronto a mi lado.", "duration": 248 },
+        { "id": "oaD55dEzMbs", "title": "SIN TI MY LOVE - ESAUD SUAREZ Y PAPILLON", "duration": 240 },
+        { "id": "1CNZibsV3r8", "title": "Eres mi vicio---PAPILON(Original)", "duration": 227 },
+        { "id": "rpvb3wdSIC4", "title": "Ahora mas que nunca - Papilon", "duration": 211 }
       ]
     }
   ]
