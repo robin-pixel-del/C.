@@ -11,11 +11,15 @@
         { "id": "mm_SwD5PYvY", "title": "Fuiste", "duration": 181 },
         { "id": "NWsyPB4MJ3U", "title": "Un Amor Verdadero", "duration": 282 },
         { "id": "2-fOa0ZI6K0", "title": "Amame Suavecito", "duration": 212 },
-        { "id": "y4Rtfp0Nx4k", "title": "No es mi Despedida", "duration": 190 },
-        { "id": "Hc5Pl1rAnw4", "title": "Pasito a Pasito", "duration": 232 },
+        { "id": "y4Rtfp0Nx4k", "title": "No es mi Despedida", "duration": 190 }
+      ]
+    },
+    {
+      "category": "Agua Marina",
+      "tracks": [
         { "id": "iv5841nThig", "title": "Tu amor fue una mentira", "duration": 221 },
         { "id": "KMCZ03itZls", "title": "Así es el amor", "duration": 185 },
-        { "id": "IxvEuwwRpjE", "title": "Tu amor fue una mentira (HD)", "duration": 208 },
+        { "id": "IxvEuwwRpjE", "title": "Tu amor fue una mentira (En Vivo)", "duration": 208 },
         { "id": "c3Ezvm3Q-vY", "title": "Llama de amor", "duration": 250 },
         { "id": "dKg5ZVv2dV0", "title": "Amor Amor", "duration": 259 },
         { "id": "hrug1ZsZsSc", "title": "Nuestro amor murió", "duration": 245 },
@@ -26,22 +30,23 @@
         { "id": "ANg3sogy2YI", "title": "Lágrimas de amor", "duration": 220 },
         { "id": "xQ_FoaouC6E", "title": "Qué puedo hacer", "duration": 198 },
         { "id": "04sobBIKsTw", "title": "Tarde en tu vida", "duration": 225 },
-        { "id": "sb63H5vOT2M", "title": "Me está quemando el alma", "duration": 210 }, 
-        { "id": "Hc5Pl1rAnw4", "title": "Basta Ya Mi Amor", "duration": 223 },
-        { "id": "iv5841nThig", "title": "Quiero Olvidarte", "duration": 229 },
-        { "id": "KMCZ03itZls", "title": "Como Haré Para Olvidarte", "duration": 235 },
-        { "id": "IxvEuwwRpjE", "title": "Tu Traición", "duration": 213 },
-        { "id": "c3Ezvm3Q-vY", "title": "Ni Perdón Ni Olvido", "duration": 227 },
-        { "id": "dKg5ZVv2dV0", "title": "Paloma Ajena", "duration": 238 },
-        { "id": "hrug1ZsZsSc", "title": "Si Tú Te Vas", "duration": 272 },
-        { "id": "eiIRhG2IyFg", "title": "Puras Mentiras", "duration": 218 },
-        { "id": "eGk6PIfQcEo", "title": "Pasitos Para Bailar", "duration": 184 },
-        { "id": "kyBQNM6v91g", "title": "Solo Un Momento", "duration": 204 },
-        { "id": "gsVhCeU6bfA", "title": "Amor Amor", "duration": 216 },
-        { "id": "ANg3sogy2YI", "title": "Debo Detenerlo", "duration": 211 },
-        { "id": "xQ_FoaouC6E", "title": "Llora Mi Corazón", "duration": 225 },
-        { "id": "04sobBIKsTw", "title": "Compárame", "duration": 224 },
-        { "id": "sb63H5vOT2M", "title": "El Teléfono", "duration": 195 }
+        { "id": "sb63H5vOT2M", "title": "Me está quemando el alma", "duration": 210 },
+        { "id": "JeHfQVXYHa0", "title": "Y vas a llorar por mi", "duration": 201 },
+        { "id": "Jp3O05Zg_3Q", "title": "Amor Sincero", "duration": 177 },
+        { "id": "anvYhJ8IMu0", "title": "Títere", "duration": 247 },
+        { "id": "fGYao_sWM60", "title": "Tu amor es mi fortuna", "duration": 214 },
+        { "id": "1MKFSnuecuk", "title": "Profundo Amor", "duration": 259 },
+        { "id": "T_L8GSUSuiM", "title": "Estoy Enamorado", "duration": 190 },
+        { "id": "RzQtoAQtV-o", "title": "Vive sin mi", "duration": 204 },
+        { "id": "kLe1z_AEm9c", "title": "Canto Herido", "duration": 194 },
+        { "id": "wOPgJ2PbzhQ", "title": "Salvemos Nuestro Amor", "duration": 211 },
+        { "id": "mEc77gfdCh0", "title": "Paloma Del Alma Mía", "duration": 204 },
+        { "id": "E4iXi5SkeDM", "title": "Esta Vez Me Enamoré", "duration": 242 },
+        { "id": "DqQCaDfC1gs", "title": "Dame Un Momento", "duration": 183 },
+        { "id": "zGDqW8VlNYM", "title": "Cómo haré para olvidarte", "duration": 296 },
+        { "id": "GvVKMCSKu8Y", "title": "Migajas De Amor", "duration": 163 },
+        { "id": "rSD3o6yvUvU", "title": "Paloma Bandida", "duration": 275 },
+        { "id": "Hc5Pl1rAnw4", "title": "Pasito a Pasito (Gilda Cover)", "duration": 232 }
       ]
     }
   ]
