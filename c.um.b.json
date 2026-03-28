@@ -1,7 +1,6 @@
-{
-  "genres": [
-    {
-      "category": "Marisol y Dilbert Aguilar",
+[
+ {
+  "category": "Marisol y Dilbert Aguilar",
       "tracks": [
         { "id": "uSjC9mB4Wi8", "title": "Quien Es Ella", "duration": 225 },
         { "id": "1EzprcGvgCw", "title": "No Me Resigno a Olvidarte", "duration": 170 },
